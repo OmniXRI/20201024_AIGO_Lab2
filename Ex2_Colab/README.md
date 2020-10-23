@@ -1,2 +1,2 @@
-# 20201024_AIGO_Lab2
-AIGO解題實務工作坊(二) 採果辨識解題與技術開發_教學範例
+# Ex2 檢查Colab硬體
+CPU, HDD, RAM, GPU
